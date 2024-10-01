@@ -1,20 +1,5 @@
-{
-  "name": "rup-risk-management",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "^13.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@radix-ui/react-select": "^1.2.0",
-    "@radix-ui/react-slider": "^1.1.0",
-    "recharts": "^2.5.0",
-    "lucide-react": "^0.220.0"
-  }
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
 }
